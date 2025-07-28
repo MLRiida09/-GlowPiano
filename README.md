@@ -160,6 +160,13 @@ This project is open source and available under the [MIT License](https://openso
 - Visual design inspired by modern glass-morphism trends
 - Built with love for music and web development! 🎵
 
----
+## 🔗 Live Preview & Contact
+
+- 🔴 **Live Demo**: [Glow Piano GitHub Page](https://mlriida09.github.io/-GlowPiano/)
+- 💼 **LinkedIn**: [Rida Mellal](https://www.linkedin.com/in/rida-mellal-203989371/)
+- 🧠 **GitHub Repository**: [MLRiida09/-GlowPiano](https://github.com/MLRiida09/-GlowPiano)
+
 
 **Enjoy playing your Beautiful Piano! 🎹✨**
+
+
